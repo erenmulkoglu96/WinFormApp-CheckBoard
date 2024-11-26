@@ -1,0 +1,17 @@
+C:\Users\erenm\source\repos\CheckerBoard\CheckerBoard\bin\Debug\net8.0-windows\CheckerBoard.exe
+C:\Users\erenm\source\repos\CheckerBoard\CheckerBoard\bin\Debug\net8.0-windows\CheckerBoard.deps.json
+C:\Users\erenm\source\repos\CheckerBoard\CheckerBoard\bin\Debug\net8.0-windows\CheckerBoard.runtimeconfig.json
+C:\Users\erenm\source\repos\CheckerBoard\CheckerBoard\bin\Debug\net8.0-windows\CheckerBoard.dll
+C:\Users\erenm\source\repos\CheckerBoard\CheckerBoard\bin\Debug\net8.0-windows\CheckerBoard.pdb
+C:\Users\erenm\source\repos\CheckerBoard\CheckerBoard\obj\Debug\net8.0-windows\CheckerBoard.Form1.resources
+C:\Users\erenm\source\repos\CheckerBoard\CheckerBoard\obj\Debug\net8.0-windows\CheckerBoard.csproj.GenerateResource.cache
+C:\Users\erenm\source\repos\CheckerBoard\CheckerBoard\obj\Debug\net8.0-windows\CheckerBoard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erenm\source\repos\CheckerBoard\CheckerBoard\obj\Debug\net8.0-windows\CheckerBoard.AssemblyInfoInputs.cache
+C:\Users\erenm\source\repos\CheckerBoard\CheckerBoard\obj\Debug\net8.0-windows\CheckerBoard.AssemblyInfo.cs
+C:\Users\erenm\source\repos\CheckerBoard\CheckerBoard\obj\Debug\net8.0-windows\CheckerBoard.csproj.CoreCompileInputs.cache
+C:\Users\erenm\source\repos\CheckerBoard\CheckerBoard\obj\Debug\net8.0-windows\CheckerBoard.sourcelink.json
+C:\Users\erenm\source\repos\CheckerBoard\CheckerBoard\obj\Debug\net8.0-windows\CheckerBoard.dll
+C:\Users\erenm\source\repos\CheckerBoard\CheckerBoard\obj\Debug\net8.0-windows\refint\CheckerBoard.dll
+C:\Users\erenm\source\repos\CheckerBoard\CheckerBoard\obj\Debug\net8.0-windows\CheckerBoard.pdb
+C:\Users\erenm\source\repos\CheckerBoard\CheckerBoard\obj\Debug\net8.0-windows\CheckerBoard.genruntimeconfig.cache
+C:\Users\erenm\source\repos\CheckerBoard\CheckerBoard\obj\Debug\net8.0-windows\ref\CheckerBoard.dll
